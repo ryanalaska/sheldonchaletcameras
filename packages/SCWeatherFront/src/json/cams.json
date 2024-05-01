@@ -1,0 +1,18 @@
+[
+    {
+        "name" : "Cam 1 NE",
+        "port" :8010
+    },
+    {
+        "name" : "Cam 2 NW",
+        "port" :8011
+    },
+    {
+        "name" : "Cam 3 SE",
+        "port" :8012
+    },
+    {
+        "name" : "Cam 4 SW",
+        "port" :8013
+    }
+]
